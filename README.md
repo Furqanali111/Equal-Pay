@@ -16,3 +16,13 @@ If you want to see the source code.
 ![image](https://user-images.githubusercontent.com/77490589/233000044-af016f02-23b7-4276-bfe1-b4f1f92df987.png)
 ![image](https://user-images.githubusercontent.com/77490589/233000057-a98bfa5f-2d3d-4fac-a862-d60d8fbc5e34.png)
 ![image](https://user-images.githubusercontent.com/77490589/233000077-19c14345-f3d6-4c67-835d-5212d4bf9382.png)
+![image](https://user-images.githubusercontent.com/77490589/233000214-2cb6f111-00d3-4439-85fa-fae37dc2004c.png)
+![image](https://user-images.githubusercontent.com/77490589/233000236-792757a9-9129-4b53-aa0a-48b0944235a5.png)
+![image](https://user-images.githubusercontent.com/77490589/233000260-6319beff-3b65-4bc4-b8ac-b2dbd05b8de8.png)
+![image](https://user-images.githubusercontent.com/77490589/233000273-5a1f12e2-e305-4348-890d-db58c298104b.png)
+![image](https://user-images.githubusercontent.com/77490589/233000318-0596a5ce-41cb-486f-b2e9-600e09da64a4.png)
+![image](https://user-images.githubusercontent.com/77490589/233000336-7995c110-77e0-4933-bee1-74e056320833.png)
+
+# Note!
+many things like the forgot password have not been implemented but the design and frontend have been made
+

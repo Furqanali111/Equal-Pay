@@ -4,9 +4,13 @@ Gender pay gap refers to the difference in earnings between men and women in the
 In this report, we will present the EqualPay project, developed by the TechBridge team, to provide a solution to the gender pay gap in Pakistan. Our project aims to develop a mobile application called EqualPay, which will help people negotiate for fair pay and raise awareness about the issue. We will provide an overview of our project, including the problem statement, legal frameworks related to gender pay, our SLDC approach using Agile methodology, the Figma-based prototype of the app, and our proposed solution. We will also discuss future enhancements and the potential impact of our solution on individuals and society as a whole.
 # Problem Statement
 The gender pay gap remains a persistent issue in many countries, including Pakistan. To address this problem, we have designed and developed an initial version of an app that aims to help individuals determine whether they are being underpaid due to their gender and provide guidance on how to negotiate for a raise. To inform the development of this app, we conducted a survey of the working class and graduate students in Pakistan to collect data on their views on the gender pay gap and their preferences for an app that addresses this issue.
+# Technologies Used
+1) Figma for designing the app.
+2) Android Studio as an IDE for managing every file and each line coded
+3) Kotlin as a backend programming language
+4) XML for implementing the frontend 
 # How to install
 1) run the equal-pay.apk on your mobile device to install it.
-
 If you want to see the source code.
 1) Extract equalpay.rar to any folder.
 2) open andriod studio
